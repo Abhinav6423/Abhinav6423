@@ -2,8 +2,8 @@
 
 🚀 Full Stack Developer building **learning platforms, creator tools, and real-world web products.**
 
-💻 Tech Stack:  
-**MERN • JavaScript • React • Node.js • MongoDB • AI Integrations • SaaS**
+💻 **Tech Stack**  
+MERN • JavaScript • React • Node.js • MongoDB • AI Integrations • SaaS
 
 ---
 
@@ -19,17 +19,18 @@ Generate instant landing pages and startup validation pitches with analytics tra
 ### 🔹 Preface
 A creator platform for publishing and discovering short fiction with likes, bookmarks, and personal collections.
 
+🌐 Live: https://preface.vercel.app
+
 ---
 
 ### 🔹 Avi-Shaft
-An AI-powered learning platform that combines note-taking, habit tracking, and gamification to help students build consistent learning habits.
+An AI-powered learning platform combining note-taking, habit tracking, and gamification to help students build consistent learning habits.
 
 ---
 
 ## 🌐 Portfolio
 
-Portfolio:  
-https://portfolio-chi-coral-ygambn62d.vercel.app
+🔗 https://portfolio-chi-coral-ygambn62d.vercel.app
 
 ---
 
@@ -37,13 +38,12 @@ https://portfolio-chi-coral-ygambn62d.vercel.app
 
 Open to **internships, roles, and collaborations.**
 
+---
 
 ## 📊 GitHub Stats
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav6423&show_icons=true&theme=tokyonight)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav6423&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6423&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6423&layout=compact&theme=tokyonight)
