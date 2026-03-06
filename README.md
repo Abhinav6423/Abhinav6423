@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abhinav Pandey 👋
 
-<!--
-**Abhinav6423/Abhinav6423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer building **learning platforms, creator tools, and real-world web products.**
 
-Here are some ideas to get you started:
+💻 Tech Stack:  
+**MERN • JavaScript • React • Node.js • MongoDB • AI Integrations • SaaS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔹 PressFlix
+Generate instant landing pages and startup validation pitches with analytics tracking.
+
+🌐 Live: https://press-flix.vercel.app
+
+---
+
+### 🔹 Preface
+A creator platform for publishing and discovering short fiction with likes, bookmarks, and personal collections.
+
+---
+
+### 🔹 Avi-Shaft
+An AI-powered learning platform that combines note-taking, habit tracking, and gamification to help students build consistent learning habits.
+
+---
+
+## 🌐 Portfolio
+
+Portfolio:  
+https://portfolio-chi-coral-ygambn62d.vercel.app
+
+---
+
+## 📫 Connect With Me
+
+Open to **internships, roles, and collaborations.**
