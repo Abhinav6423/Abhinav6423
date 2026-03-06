@@ -36,3 +36,14 @@ https://portfolio-chi-coral-ygambn62d.vercel.app
 ## 📫 Connect With Me
 
 Open to **internships, roles, and collaborations.**
+
+
+## 📊 GitHub Stats
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav6423&show_icons=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav6423&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav6423&layout=compact&theme=tokyonight)
